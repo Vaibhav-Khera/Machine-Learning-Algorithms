@@ -16,4 +16,4 @@
 - Exhaust Vacuum (V) in the range 25.36-81.56 cm Hg
 - Net hourly electrical energy output (EP) 420.26-495.76 MW
 
-The averages are taken from various sensors located around the plant that record the ambient variables every second. The variables are given without normalization.
+NOTE: The averages are taken from various sensors located around the plant that record the ambient variables every second. The variables are given without normalization.
