@@ -17,4 +17,4 @@
 - Embarked: Port of embarkation. C- Cherbourg, S – Southampton, Q - Queenstown
 
 ### Results
-> **The classifier built here has a prediction score of 0.81, i.e., we get an average accuracy of 80+%. This is a pretty good accuracy for starters and could be improved upon by coming up with newer, better features by using some feature engineering. This is something I could work on in the future.**
+ **The classifier built here has a prediction score of 0.81, i.e., we get an average accuracy of 80+%. This is a pretty good accuracy for starters and could be improved upon by coming up with newer, better features by using some feature engineering. This is something I could work on in the future.**
