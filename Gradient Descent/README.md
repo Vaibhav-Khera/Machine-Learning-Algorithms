@@ -1,8 +1,8 @@
 # What is Gradient Descent?
 > Optimization is a big part of machine learning. Almost every machine learning algorithm has an optimization algorithm at its core.
 
-> Gradient descent is an optimization algorithm used to find the values of parameters (coefficients) of a function (f) that minimizes a cost function (cost).\
-Gradient descent is best used when the parameters cannot be calculated analytically or when you need an optimized way to calculate those parameters.
+> **Gradient descent is an optimization algorithm used to find the values of parameters (coefficients) of a function (f) that minimizes a cost function (cost).
+Gradient descent is best used when the parameters cannot be calculated analytically or when you need an optimized way to calculate those parameters.**
 
 # Intuition for Gradient Descent
 > Suppose you are at the top of a mountain, and your goal is to reach a lake which is at the lowest point of the mountain. A twist is that you are blindfolded, and you
