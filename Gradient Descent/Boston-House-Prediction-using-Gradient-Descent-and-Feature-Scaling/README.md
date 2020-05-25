@@ -1,15 +1,15 @@
 # Gradient Descent - Boston Dataset
 
-> Boston dataset is one of the datasets available in sklearn.
+**Boston dataset is one of the datasets available in sklearn.**
 
-> In this project I'm attempting to do data analysis on the Boston dataset, the aim is to apply Gradient Descent Algorithm to predict the prices of house in boston dataset.
- I have tried to implement the gradient descent algorithm from scratch without the support of the inbuilt libraries.
+> **In this project I'm attempting to do data analysis on the Boston dataset, the aim is to apply Gradient Descent Algorithm to predict the prices of house in boston dataset.
+ I have tried to implement the gradient descent algorithm from scratch without the support of the inbuilt libraries.**
 
 ## Data description
 > The medv variable is the target variable
 > The Boston data frame has 506 rows and 14 columns.
 
-> ### This data frame contains the following columns:
+### This data frame contains the following columns:
 - crim: per capita crime rate by town.
 - zn: proportion of residential land zoned for lots over 25,000 sq.ft.
 - indus: proportion of non-retail business acres per town.
@@ -26,4 +26,4 @@
 - medv: median value of owner-occupied homes in \$1000s.
 
 ## Result:
-> Managed to successfully implement the algorithm using feature scaling and got a accuracy score of 0.75 i.e we get an average accuracy of 75+%.
+**Managed to successfully implement the algorithm using feature scaling and got a accuracy score of 0.75 i.e we get an average accuracy of 75+%.**
