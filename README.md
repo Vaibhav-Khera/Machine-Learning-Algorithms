@@ -7,5 +7,5 @@
 - Decision Tree
 - Random Forest
 - Naive Bayes
-- KNN
+- KNN(K-nearest neighbours)
 
